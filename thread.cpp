@@ -32,3 +32,4 @@ int main()
 } 
 //编译运行的命令：
 //g++ -lboost_system -o thread thread.cpp -std=c++11 -pthread
+//参考文档http://zh.highscore.de/cpp/boost/asio.html#asio_scalability
